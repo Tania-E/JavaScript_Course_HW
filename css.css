@@ -1,0 +1,30 @@
+body {
+	margin: 10px;
+	font: Arial;
+}
+
+.serch_div {
+	text-align: center;
+    margin: 30px 0 0;
+}
+
+/*
+#select {
+	padding: 1px;
+}
+*/
+
+#fromId, #toId {
+	padding: 0  0 0 10px;	
+}
+
+table {
+	border-collapse: collapse;
+	margin: 30px auto;
+	visibility: hidden;
+}
+
+td {
+	border: 1px solid rgb(221, 221, 221);
+	padding: 5px 20px;
+}
